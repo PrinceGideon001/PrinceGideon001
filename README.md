@@ -1,16 +1,26 @@
-## Hi there 👋
+### About Me.
 
-<!--
-**PrinceGideon001/PrinceGideon001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**Personal profile**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Name: Gideon Rotich
+
+Mobile: 254723682995
+
+Email: simataigideon@gmail.com
+
+**Personal statement**
+
+- 🔭 Versatile individual with experience collecting, transforming, and organizing data for analysis to help make informed decisions. Excellent understanding and proficiency of platforms for effective data analyses, including SQL, spreadsheets, Tableau, and R. Strong communication, organizational, and analytical skills. Recently completed Google Data Analytics Certificate - a rigorous, hands-on program that covers the entire scope of the data analysis process.
+  
+**Skills**
+- 
+- Data analysis - data cleaning - data visualization - R programming - data-driven decision making - calculation and analysis in SQL and spreadsheets - effective presentations
+
+
+**Certifications**
+
+- Google Data Analytics – Provided by Google Scholarships US
+- Artificial Intelligence Fundamentals - IBM SkillBuild
+  
+
